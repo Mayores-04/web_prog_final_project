@@ -1,27 +1,46 @@
-# Web Programming Final Project
+# 🎓 EduPath – AI-Powered Course & School Recommender
 
-> Placeholder README for Web Programming Final Project repository
+EduPath is a lightweight **PHP web application** that uses **Google Gemini AI** to help students discover the best **career paths, college courses, and schools** based on their interests, strengths, and goals.  
+Built without any framework — just **pure PHP, HTML, CSS, and Gemini API** — this project is designed for simplicity, clarity, and educational use.
 
-## Description
+---
 
-This repository contains the final project for the Web Programming course.  
-Currently, this README serves as a placeholder and will be updated with detailed project information soon.
+## 🚀 Features
 
-## Project Structure
+- 🧠 **Gemini AI Integration**  
+  Generates personalized recommendations for courses, careers, and schools.
+
+- 📋 **Smart Form Input**  
+  Collects student info like level, interests, strengths, and goals.
+
+- 🎨 **Modern UI Design**  
+  Responsive layout with gradient themes and smooth interactions.
+
+- 📦 **No Framework Required**  
+  Runs directly with **XAMPP** or any PHP server.
+
+- ⚙️ **Environment-Based API Key Handling**  
+  Uses a `.env.local` file for secure API key storage.
+
+---
+
+## 🗂️ Folder Structure
 
 
-## Features
+---
 
-- Feature 1: TBD
-- Feature 2: TBD
-- Feature 3: TBD
+## 🔧 Setup Instructions
 
-## Installation
+### 1. Prerequisites
+- ✅ PHP 8.1 or higher  
+- ✅ XAMPP or Laragon  
+- ✅ A valid **Google Gemini API Key** (from [Google AI Studio](https://aistudio.google.com))
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/web_prog_final_project.git
+---
 
-# Navigate into the project folder
-cd web_prog_final_project
+### 2. Installation
+
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/edupath-php.git
 
