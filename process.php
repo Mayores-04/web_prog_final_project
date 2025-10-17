@@ -24,7 +24,6 @@ if (empty($level) || empty($interests) || empty($strengths) || empty($goals)) {
     die('<div class="p-4 bg-red-100 border border-red-400 text-red-700 rounded-lg">Please fill in all required fields</div>');
 }
 
-// Determine academic level description
 $levelDesc = ($level === 'high_school') ? 'High School (Grades 7-10)' : 'Senior High School (Grades 11-12)';
 
 // Create prompt for Gemini AI
