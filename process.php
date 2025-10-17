@@ -71,7 +71,7 @@ Please provide comprehensive guidance in this EXACT JSON structure (respond ONLY
   }
 }
 
-Provide 3-4 career paths, 3-4 courses, 5-7 schools, and comprehensive action steps. Be specific to Philippine education system.";
+Provide 3-4 career paths, 3-4 courses, 5-7 schools, and comprehensive action steps. Always put on top the users location choice. Be specific to Philippine education system.";
 
 // Gemini API endpoint
 $url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=$apiKey";
