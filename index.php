@@ -21,7 +21,6 @@
         <div class="container mx-auto px-6">
             <h1 class="text-4xl font-bold">🎓 EduPath</h1>
             <p class="text-gray-300 mt-2">Discover the perfect course and school for your future</p>
-            <p class="text-gray-300 mt-2 text-sm">Developer: Jake Mayores</p>
         </div>
     </header>
 
@@ -87,6 +86,7 @@
                             class="w-full bg-black text-white py-4 rounded-lg font-semibold hover:bg-gray-800 transition transform hover:scale-105 active:scale-95">
                         Find My Path 🚀
                     </button>
+                    <p class="text-gray-800 mt-2 text-sm align-self-center text-center">Developer: Jake Mayores</p>
                 </form>
             </div>
 
