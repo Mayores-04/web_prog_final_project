@@ -26,7 +26,7 @@ Built without any framework — just **pure PHP, HTML, CSS, and Gemini API** —
 
 ## 🗂️ Folder Structure
 
-web_project/
+web_project/<br >
 │<br >
 ├── index.php # Main page with user form<br >
 ├── process.php # Handles API requests and responses<br >
