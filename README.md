@@ -27,11 +27,11 @@ Built without any framework — just **pure PHP, HTML, CSS, and Gemini API** —
 ## 🗂️ Folder Structure
 
 web_project/
-│
-├── index.php # Main page with user form
-├── process.php # Handles API requests and responses
-├── .env.local # Stores your Gemini API key
-└── README.md # Project documentation
+│<br >
+├── index.php # Main page with user form<br >
+├── process.php # Handles API requests and responses<br >
+├── .env.local # Stores your Gemini API key<br >
+└── README.md # Project documentation<br >
 
 ---
 
